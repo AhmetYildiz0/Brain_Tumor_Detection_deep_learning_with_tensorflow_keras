@@ -1,4 +1,4 @@
-# Brain Tumor Detection with tensorflow keras
+# Brain Tumor Detection Deep Learning with tensorflow keras
 * Dataset from [Kaggle](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)
 
 ## Result
